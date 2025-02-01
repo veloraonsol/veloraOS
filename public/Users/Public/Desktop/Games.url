@@ -1,0 +1,6 @@
+[InternetShortcut]
+BaseURL=FileExplorer
+Comment=Shows the contents of the games folder.
+IconFile=/System/Icons/folder.webp
+Type=System
+URL=/Users/Public/Start Menu/Games
